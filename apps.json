@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Firefox",
+      "logo": "images/Firefox.png",
+      "description": "Firefox是一款由Mozilla基金会开发的开源免费网页浏览器，跨平台支持Windows、macOS和Linux等系统，具有速度快、隐私保护强、扩展插件丰富等特点，主要用于网页浏览、网络应用访问和信息搜索，是全球广泛使用的主流浏览器之一。",
+      "download": "https://apps.apple.com/us/app/firefox-private-web-browser/id989804926"
+    },
+    {
+      "name": "Hiddify",
+      "logo": "images/Hiddify.png",
+      "description": "Hiddify是一款开源免费的跨平台网络工具，主要用于便捷地部署和管理代理服务，支持多种协议和规则配置，界面友好、功能丰富，可运行在Windows、macOS、Linux、Android等平台，常用于科学研究、网络调试与隐私安全场景。",
+      "download": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532"
+    },
+    {
+      "name": "iSH",
+      "logo": "images/iSH.png",
+      "description": "iSH是一款开源免费的应用软件，它在iOS设备上提供一个基于x86模拟的Linux环境，让用户无需越狱即可在iPhone或iPad上运行Alpine Linux，支持常见的Linux命令和包管理，主要用途是学习Linux、进行简单开发和命令行实验。",
+      "download": "https://apps.apple.com/us/app/ish-shell/id1436902243"
+    },
+    {
+      "name": "Jitsi Meet",
+      "logo": "images/Jitsi Meet.png",
+      "description": "Jitsi Meet是一款开源免费的在线视频会议软件，支持浏览器和移动端使用，无需注册即可创建或加入会议，提供高清视频通话、屏幕共享、实时聊天等功能，注重隐私和安全，适用于远程办公、在线教育和团队协作等场景。",
+      "download": "https://apps.apple.com/us/app/jitsi-meet/id1165103905"
+    },
+    {
+      "name": "LocalSend",
+      "logo": "images/LocalSend.png",
+      "description": "LocalSend是一款开源免费的跨平台文件传输软件，支持Windows、macOS、Linux、Android和iOS，无需互联网或云端，通过局域网即可实现设备间快速、安全的点对点传输，主要用途是替代U盘、蓝牙或第三方网盘，实现便捷高效的本地文件共享。",
+      "download": "https://apps.apple.com/us/app/localsend/id1661733229"
+    },
+    {
+      "name": "UTM",
+      "logo": "images/UTM.jpeg",
+      "description": "UTM是一款开源免费的虚拟机软件，专为苹果设备设计，基于QEMU虚拟化引擎，可在iOS和macOS上运行Windows、Linux等操作系统，主要用途是让用户在苹果设备上体验和使用不同系统环境，方便学习、开发和测试。",
+      "download": "https://apps.apple.com/us/app/utm-se-retro-pc-emulator/id1564628856"
+    },
+    {
+      "name": "VLC",
+      "logo": "images/VLC.jpeg",
+      "description": "VLC是一款开源免费的跨平台多媒体播放器，由VideoLAN项目开发，支持几乎所有音视频格式和光盘、流媒体播放，界面简洁、功能强大，可用于观看视频、播放音乐、转换格式及流媒体广播，适用于Windows、macOS、Linux、Android和iOS等系统。",
+      "download": "https://apps.apple.com/us/app/vlc-media-player/id650377962"
+    }
+  ]
+  
+
+
