@@ -37,7 +37,7 @@
     },
     {
       "name": "VLC",
-      "logo": "images/VLC.jpeg",
+      "logo": "images/VLC.png",
       "description": "VLC是一款开源免费的跨平台多媒体播放器，由VideoLAN项目开发，支持几乎所有音视频格式和光盘、流媒体播放，界面简洁、功能强大，可用于观看视频、播放音乐、转换格式及流媒体广播，适用于Windows、macOS、Linux、Android和iOS等系统。",
       "download": "https://apps.apple.com/us/app/vlc-media-player/id650377962"
     }
