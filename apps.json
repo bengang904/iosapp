@@ -1,5 +1,11 @@
 [
     {
+      "name": "Bitwarden",
+      "logo": "images/Bitwarden.png",
+      "description": "Bitwarden 是一款开源的密码管理器，可以帮助你安全地存储、生成和管理密码、密钥及其他敏感信息。它的特点是安全性高、跨平台、免费且支持自托管。",
+      "download": "https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744"
+    },
+    {
       "name": "Firefox",
       "logo": "images/Firefox.png",
       "description": "Firefox是一款由Mozilla基金会开发的开源免费网页浏览器，跨平台支持Windows、macOS和Linux等系统，具有速度快、隐私保护强、扩展插件丰富等特点，主要用于网页浏览、网络应用访问和信息搜索，是全球广泛使用的主流浏览器之一。",
