@@ -6,12 +6,6 @@
       "download": "https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744"
     },
     {
-      "name": "Google Chrome",
-      "logo": "images/Google Chrome.png",
-      "description": "Google Chrome 是一款由 Google 公司开发的网页浏览器。它是用来上网、打开网页、播放在线视频、下载文件、使用网页应用等的电脑或手机软件。",
-      "download": "https://apps.apple.com/us/app/google-chrome/id535886823"
-    },
-    {
       "name": "Firefox",
       "logo": "images/Firefox.png",
       "description": "Firefox是一款由Mozilla基金会开发的开源免费网页浏览器，跨平台支持Windows、macOS和Linux等系统，具有速度快、隐私保护强、扩展插件丰富等特点，主要用于网页浏览、网络应用访问和信息搜索，是全球广泛使用的主流浏览器之一。",
@@ -22,6 +16,12 @@
       "logo": "images/Google Authenticator.png",
       "description": "Google Authenticator 是由 Google 推出的一个双重身份验证（2FA，Two-Factor Authentication）应用程序。它的主要功能是通过生成动态验证码（一次性密码，OTP）来提高你的账户安全性。",
       "download": "https://apps.apple.com/us/app/google-authenticator/id388497605"
+    },
+     {
+      "name": "Google Chrome",
+      "logo": "images/Google Chrome.png",
+      "description": "Google Chrome 是一款由 Google 公司开发的网页浏览器。它是用来上网、打开网页、播放在线视频、下载文件、使用网页应用等的电脑或手机软件。",
+      "download": "https://apps.apple.com/us/app/google-chrome/id535886823"
     },
     {
       "name": "Hiddify",
